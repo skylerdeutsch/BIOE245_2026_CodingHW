@@ -9,8 +9,6 @@ In this assignment, we explore the task of using ResNet-18 to perform pathology 
 Run the following in your terminal to clone the repo and its submodules:
 ```bash
 git clone https://github.com/skylerdeutsch/BIOE245_2026_CodingHW.git
-
-cd your-repo
 ```
 
 ### 2. Open in Google Colab
