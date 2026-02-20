@@ -6,7 +6,7 @@ In this assignment, we explore the task of using ResNet-18 to perform pathology 
 
 ### 1. Open in Google Colab
 
-Click the badge below or go to [Google Colab](https://colab.research.google.com) and open `Google_Colab_Run.ipynb` from your repository.
+Go to [Google Colab](https://colab.research.google.com) and open `Google_Colab_Run.ipynb` from your cloned repository.
 
 > **Note**: To enable GPU, go to **Runtime → Change runtime type → T4 GPU** before running anything.
 
