@@ -20,9 +20,7 @@ Go to [Google Colab](https://colab.research.google.com) and open `Google_Colab_R
 ## Running the Experiment
 
 Run the training script by executing all cells in:
-```
-Google_Colab_Run.ipynb
-```
+`Google_Colab_Run.ipynb`
 
 ## Assignment Tasks
 
