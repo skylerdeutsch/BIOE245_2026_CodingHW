@@ -1,4 +1,4 @@
-### Task 2: Training Configuration Analysis
+## Task 2: Training Configuration Analysis
 Answer the following questions about the training setup:
 
 **Q1. What learning rates are used in the training?**
