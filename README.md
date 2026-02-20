@@ -6,7 +6,7 @@ In this assignment, we explore the task of using ResNet-18 to perform pathology 
 
 Run the following in your terminal to clone the repo and its submodules:
 ```bash
-git clone --recurse-submodules https://github.com/your-username/your-repo.git
+git clone --recurse-submodules https://github.com/your-username/your-repo.git](https://github.com/skylerdeutsch/BIOE245_2026_CodingHW.git)
 cd your-repo
 ```
 
