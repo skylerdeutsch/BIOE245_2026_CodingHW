@@ -4,12 +4,10 @@ In this assignment, we explore the task of using ResNet-18 to perform pathology 
 
 ## Setup Instructions
 
-### 1. Clone the Repository
-
-Run the following in a Colab cell to clone the repo and its submodules:
+Run the following in your terminal to clone the repo and its submodules:
 ```bash
-!git clone --recurse-submodules https://github.com/your-username/your-repo.git
-%cd your-repo
+git clone --recurse-submodules https://github.com/your-username/your-repo.git
+cd your-repo
 ```
 
 ### 2. Open in Google Colab
