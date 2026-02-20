@@ -7,4 +7,4 @@ python ./train_and_eval.py \
     --download \
     --output_root "${OUTPUT_ROOT}" \
     --dataset_root "${DATASET_ROOT}" \
-    --gpu_ids ""
+    --gpu_ids "-1"
