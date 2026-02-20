@@ -1,4 +1,5 @@
 ### Task 2: Training Configuration Analysis
+Answer the following questions about the training setup:
 
 **Q1. What learning rates are used in the training?**
 
@@ -25,6 +26,7 @@ A:
 A:
 
 ### Task 3: Training Statistics Visualization
+Examine the training statistics and answer the following questions. Include screenshots of the curves to support your answers.
 
 **1. Where are the training statistics stored? Demonstrate how to visualize them.**
 
