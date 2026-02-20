@@ -12,8 +12,6 @@ Open a new Colab notebook and clone the repository.
 
 ## Running the Experiment
 
-### 1. Start Training
-
 Run the training script:
 ```
 Google_Colab_Run.ipynb
