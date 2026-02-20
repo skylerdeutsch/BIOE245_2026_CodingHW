@@ -4,7 +4,7 @@ In this assignment, we explore the task of using ResNet-18 to perform pathology 
 
 ## Setup Instructions
 
-### 1. Open in Google Colab
+### Open in Google Colab
 
 Go to [Google Colab](https://colab.research.google.com) and open `Google_Colab_Run.ipynb` from your cloned repository.
 
