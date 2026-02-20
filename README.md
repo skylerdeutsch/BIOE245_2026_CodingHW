@@ -15,8 +15,8 @@ Open a new Colab notebook and clone the repository.
 ### 1. Start Training
 
 Run the training script:
-```bash
-bash Google_Colab_Run.ipynb
+```
+Google_Colab_Run.ipynb
 ```
 
 ## Assignment Tasks
