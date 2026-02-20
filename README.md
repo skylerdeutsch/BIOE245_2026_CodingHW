@@ -4,11 +4,11 @@ In this assignment, we explore the task of using ResNet-18 to perform pathology 
 
 ## Setup Instructions
 
-### 1. Environment Setup
+### 1. Open in Google Colab
 
-**Note**: This tutorial assumes you are using [Google Colab](https://colab.research.google.com). If you are running locally, you may need to modify the commands accordingly.
+Click the badge below or go to [Google Colab](https://colab.research.google.com) and open `Google_Colab_Run.ipynb` from your repository.
 
-Open a new Colab notebook and clone the repository.
+> **Note**: To enable GPU, go to **Runtime → Change runtime type → T4 GPU** before running anything.
 
 ## Running the Experiment
 
