@@ -6,19 +6,9 @@ In this assignment, we explore the task of using ResNet-18 to perform pathology 
 
 ### 1. Environment Setup
 
-**Note**: This tutorial assumes you are using conda on Ubuntu. If you are using macOS or another operating system, you may need to modify the commands accordingly.
+**Note**: This tutorial assumes you are using [Google Colab](https://colab.research.google.com). If you are running locally, you may need to modify the commands accordingly.
 
-You can either use an existing conda environment or create a new one. In this tutorial, we name the environment `ResNet`.
-
-#### Create a New Environment (if needed):
-```bash
-conda create -n ResNet python=3.12.7
-```
-
-#### Activate the Environment:
-```bash
-conda activate ResNet
-```
+Open a new Colab notebook and clone the repository.
 
 ### 2. Install Dependencies
 
@@ -26,19 +16,19 @@ Choose the appropriate installation command depending on whether you are using C
 
 #### CPU-only:
 ```bash
-pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
+!pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
 ```
 
 #### GPU (CUDA support):
 ```bash
-pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu118
+!pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu118
 ```
 
-**Note**: For GPU installation, specify the CUDA version that matches your system. Common options include:
-- `cu118` for CUDA 11.8
-- `cu121` for CUDA 12.1
-
-PyTorch includes its own CUDA runtime libraries, so you do not need to install the CUDA toolkit separately. Only compatible NVIDIA drivers are required on your system.
+> **Note**: For GPU installation, specify the CUDA version that matches your runtime. Common options include:
+> - `cu118` for CUDA 11.8
+> - `cu121` for CUDA 12.1
+>
+> PyTorch includes its own CUDA runtime libraries, so you do not need to install the CUDA toolkit separately. To enable GPU in Colab, go to **Runtime → Change runtime type → T4 GPU**.
 
 ## Running the Experiment
 
