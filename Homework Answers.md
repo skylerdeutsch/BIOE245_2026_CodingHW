@@ -29,18 +29,18 @@ A:
 ## Task 3: Training Statistics Visualization
 Examine the training statistics and answer the following questions. Include screenshots of the curves to support your answers.
 
-**1. Where are the training statistics stored? Demonstrate how to visualize them.**
+**Q1. Where are the training statistics stored? Demonstrate how to visualize them.**
 
 A:
 
-**2. How many curves are displayed? What do they represent and how are they calculated?**
+**Q2. How many curves are displayed? What do they represent and how are they calculated?**
 
 A:
 
-**3. How does the learning rate schedule correlate with the behavior of the curves?**
+**Q3. How does the learning rate schedule correlate with the behavior of the curves?**
 
 A:
 
-**4. What observations can you make about the curve trends? Are they monotonically increasing, decreasing, or fluctuating? Explain why.**
+**Q4. What observations can you make about the curve trends? Are they monotonically increasing, decreasing, or fluctuating? Explain why.**
 
 A:
