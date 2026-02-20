@@ -26,7 +26,7 @@ A:
 A:
 
 
-### Task 3: Training Statistics Visualization
+## Task 3: Training Statistics Visualization
 Examine the training statistics and answer the following questions. Include screenshots of the curves to support your answers.
 
 **1. Where are the training statistics stored? Demonstrate how to visualize them.**
