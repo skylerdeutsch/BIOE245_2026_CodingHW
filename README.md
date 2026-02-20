@@ -10,41 +10,13 @@ In this assignment, we explore the task of using ResNet-18 to perform pathology 
 
 Open a new Colab notebook and clone the repository.
 
-### 2. Install Dependencies
-
-Choose the appropriate installation command depending on whether you are using CPU or GPU:
-
-#### CPU-only:
-```bash
-!pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
-```
-
-#### GPU (CUDA support):
-```bash
-!pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu118
-```
-
-> **Note**: For GPU installation, specify the CUDA version that matches your runtime. Common options include:
-> - `cu118` for CUDA 11.8
-> - `cu121` for CUDA 12.1
->
-> PyTorch includes its own CUDA runtime libraries, so you do not need to install the CUDA toolkit separately. To enable GPU in Colab, go to **Runtime → Change runtime type → T4 GPU**.
-
 ## Running the Experiment
 
-### 1. Configure Parameters
-
-Open `train_and_eval.sh` and modify the following parameters:
-
-- **`DATASET_ROOT`**: Directory where the PathMNIST dataset will be downloaded
-- **`OUTPUT_ROOT`**: Directory where model weights and training statistics will be saved
-- **`gpu_ids`**: GPU device ID(s) to use (e.g., `0` for first GPU, or leave empty for CPU mode)
-
-### 2. Start Training
+### 1. Start Training
 
 Run the training script:
 ```bash
-bash train_and_eval.sh
+bash Google_Colab_Run.ipynb
 ```
 
 ## Assignment Tasks
