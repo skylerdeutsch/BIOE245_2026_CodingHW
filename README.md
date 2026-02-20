@@ -23,7 +23,7 @@ Google_Colab_Run.ipynb
 
 ### Task 1: Run Training
 
-Run the training steps outlined in the instructions above. You may use an AI assistant if needed.
+Run the training steps outlined in the instructions above.
 
 ### Task 2: Training Configuration Analysis
 
