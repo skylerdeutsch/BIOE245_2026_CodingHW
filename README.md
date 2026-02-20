@@ -4,7 +4,15 @@ In this assignment, we explore the task of using ResNet-18 to perform pathology 
 
 ## Setup Instructions
 
-### Open in Google Colab
+### 1. Clone the Repository
+
+Run the following in a Colab cell to clone the repo and its submodules:
+```bash
+!git clone --recurse-submodules https://github.com/your-username/your-repo.git
+%cd your-repo
+```
+
+### 2. Open in Google Colab
 
 Go to [Google Colab](https://colab.research.google.com) and open `Google_Colab_Run.ipynb` from your cloned repository.
 
@@ -12,7 +20,7 @@ Go to [Google Colab](https://colab.research.google.com) and open `Google_Colab_R
 
 ## Running the Experiment
 
-Run the training script:
+Run the training script by executing all cells in:
 ```
 Google_Colab_Run.ipynb
 ```
